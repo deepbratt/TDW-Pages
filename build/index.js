@@ -1,4 +1,3 @@
-export function add(a, b) {
-    return a + b;
-}
+import Home from "./Pages/Home";
+export { Home };
 //# sourceMappingURL=index.js.map

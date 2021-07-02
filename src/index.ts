@@ -1,3 +1,7 @@
- export function add(a: number, b: number){
-     return a+b
- }
+import Home from "./Pages/Home"
+
+
+
+export {
+    Home
+}

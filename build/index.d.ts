@@ -1,1 +1,2 @@
-export declare function add(a: number, b: number): number;
+import Home from "./Pages/Home";
+export { Home };
