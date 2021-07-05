@@ -1,7 +1,13 @@
 node_modules
 
+package-lock.json
 
 build
 
+index.d.ts
 
-package-lock.json
+index.js.map
+
+index.js
+
+Pages
